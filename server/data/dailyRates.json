@@ -1,0 +1,106 @@
+[
+  {
+    "glassType": "Clear Float",
+    "thickness": "5mm",
+    "rates": [
+      { "date": "2026-04-18", "rate": 52, "change": 1.2, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-17", "rate": 51, "change": -0.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-16", "rate": 51.5, "change": 0.8, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-15", "rate": 51, "change": 0.3, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-14", "rate": 50.5, "change": -1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-13", "rate": 51, "change": 0.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-12", "rate": 50.5, "change": 0.0, "factory": "Gujarat Glass Works" }
+    ]
+  },
+  {
+    "glassType": "Toughened",
+    "thickness": "8mm",
+    "rates": [
+      { "date": "2026-04-18", "rate": 140, "change": 2.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-17", "rate": 138, "change": -1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-16", "rate": 139, "change": 1.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-15", "rate": 137, "change": 0.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-14", "rate": 137, "change": -2.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-13", "rate": 139, "change": 1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-12", "rate": 138, "change": 0.5, "factory": "Gujarat Glass Works" }
+    ]
+  },
+  {
+    "glassType": "Laminated",
+    "thickness": "10mm",
+    "rates": [
+      { "date": "2026-04-18", "rate": 210, "change": 3.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-17", "rate": 207, "change": -1.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-16", "rate": 208, "change": 0.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-15", "rate": 208, "change": 2.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-14", "rate": 206, "change": -1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-13", "rate": 207, "change": 1.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-12", "rate": 205, "change": 0.0, "factory": "Gujarat Glass Works" }
+    ]
+  },
+  {
+    "glassType": "DGU / IGU",
+    "thickness": "6+12+6mm",
+    "rates": [
+      { "date": "2026-04-18", "rate": 420, "change": 5.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-17", "rate": 415, "change": -3.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-16", "rate": 418, "change": 2.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-15", "rate": 416, "change": 1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-14", "rate": 415, "change": -2.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-13", "rate": 417, "change": 3.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-12", "rate": 414, "change": 0.0, "factory": "Gujarat Glass Works" }
+    ]
+  },
+  {
+    "glassType": "Frosted",
+    "thickness": "6mm",
+    "rates": [
+      { "date": "2026-04-18", "rate": 95, "change": 1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-17", "rate": 94, "change": -0.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-16", "rate": 94.5, "change": 0.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-15", "rate": 94, "change": 0.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-14", "rate": 94, "change": -1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-13", "rate": 95, "change": 0.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-12", "rate": 94.5, "change": 0.0, "factory": "Gujarat Glass Works" }
+    ]
+  },
+  {
+    "glassType": "Reflective",
+    "thickness": "6mm",
+    "rates": [
+      { "date": "2026-04-18", "rate": 120, "change": 1.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-17", "rate": 118, "change": -1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-16", "rate": 119, "change": 0.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-15", "rate": 119, "change": 1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-14", "rate": 118, "change": -0.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-13", "rate": 118, "change": 0.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-12", "rate": 118, "change": 0.5, "factory": "Gujarat Glass Works" }
+    ]
+  },
+  {
+    "glassType": "Low-E Glass",
+    "thickness": "6mm",
+    "rates": [
+      { "date": "2026-04-18", "rate": 255, "change": 3.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-17", "rate": 252, "change": -2.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-16", "rate": 254, "change": 1.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-15", "rate": 252, "change": 0.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-14", "rate": 252, "change": -1.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-13", "rate": 254, "change": 2.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-12", "rate": 252, "change": 0.0, "factory": "Gujarat Glass Works" }
+    ]
+  },
+  {
+    "glassType": "Back-Painted",
+    "thickness": "8mm",
+    "rates": [
+      { "date": "2026-04-18", "rate": 180, "change": 2.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-17", "rate": 178, "change": -1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-16", "rate": 179, "change": 1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-15", "rate": 178, "change": 0.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-14", "rate": 177, "change": -1.5, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-13", "rate": 179, "change": 1.0, "factory": "Gujarat Glass Works" },
+      { "date": "2026-04-12", "rate": 178, "change": 0.0, "factory": "Gujarat Glass Works" }
+    ]
+  }
+]
